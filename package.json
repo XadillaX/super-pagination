@@ -27,12 +27,12 @@
   "dependencies": {
     "lodash": "~2.4.1",
     "swig": "~1.4.2",
-    "mocha": "~2.0.1",
+    "mocha": "~7.1.1",
     "mongoose": "~3.8.19"
   },
   "devDependencies": {
     "async": "*",
     "mongoose": "*",
-    "mocha": "*"
+    "mocha": "7.1.1"
   }
 }
